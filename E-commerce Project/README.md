@@ -8,7 +8,7 @@
 * seaborn
 * matplotlib
 * pymystem3
-* plotly.express
+* plotly
 * collections
 * scipy
 ## Общий вывод
