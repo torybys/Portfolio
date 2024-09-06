@@ -1,3 +1,3 @@
 # Яндекс. Практикум "Аналитик данных"
-## Data Analysis Projects
- My projects, which present my knowledge and skills.
+## Добро пожаловать в портфолио с моими проектами, в котором представлены мои знания и умения.
+ 
